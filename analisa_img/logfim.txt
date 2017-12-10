@@ -1,0 +1,12 @@
+Processou arquivo /var/www/html/cameras/cam2/03-20171210165841.mp4
+Processou arquivo .mp4
+Processou arquivo /var/www/html/cameras/cam2/04-20171210170330.mp4
+Processou arquivo /var/www/html/cameras/cam2/05-20171210170956.mp4
+Processou arquivo /var/www/html/cameras/cam2/06-20171210171345.mp4
+Processou arquivo /var/www/html/cameras/cam2/07-20171210172216.mp4
+Processou arquivo /var/www/html/cameras/cam2/08-20171210172704.mp4
+Processou arquivo /var/www/html/cameras/cam2/09-20171210172838.mp4
+Processou arquivo /var/www/html/cameras/cam2/10-20171210173524.mp4
+Processou arquivo /var/www/html/cameras/cam2/11-20171210173850.mp4
+Processou arquivo /var/www/html/cameras/cam2/12-20171210174150.mp4
+Processou arquivo .mp4
